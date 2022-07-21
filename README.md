@@ -5,7 +5,7 @@
 - 📫 How to reach me:
 - facebook: https://www.facebook.com/syedumer224/
 - twitter: https://twitter.com/umer_hassni
-- instagram: https://www.instagram.com/syedumer224/target="_blank"
+- instagram: https://www.instagram.com/syedumer224/
 
 <!---
 ft-umer/ft-umer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
