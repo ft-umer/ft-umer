@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ft-umer and I'm currently working on fiverr as ft-umer
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning API Development course.
+- 🌱 I'm front-end developer in react/next js, getsby developer and [mern developer(soon)].
+- 🌱 First react project: https://hackathon-event-app-by-umer.vercel.app/
 - 💞️ I’m looking to collaborate on web programming.
 - 📫 How to reach me:
 - facebook: https://www.facebook.com/syedumer224/
