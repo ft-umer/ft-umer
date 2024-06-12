@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ft-umer and I'm currently working on Fiverr as ft-umer
 - 👀 I’m interested in programming.
-- 🌱 I'm Mern(**M**ongoDB, **E**xpress js, **R**eact/Next js, React **N**ative) stack developer and Full Stack Developer in HTML, CSS, Bootstrap, Javascript, Jquery, and PHP.
+- 🌱 I'm Mern(**_M_**ongoDB, **_E_**xpress js, **_R_**eact/Next js, React **_N_**ative) stack developer and Full Stack Developer in HTML, CSS, Bootstrap, Javascript, Jquery, and PHP.
 - 🌱 First react project: https://hackathon-event-app-by-umer.vercel.app/
 - 💞️ I’m looking to collaborate on web programming.
 - 📫 How to reach me:
