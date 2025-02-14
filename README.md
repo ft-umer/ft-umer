@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ft-umer and I'm currently working on Fiverr as syedumerhassni
 - 👀 I’m interested in programming.
-- 🌱 I'm Mern(**M**ongoDB, **E**xpress js, **R**eact/Next js, React **N**ative) stack developer and Full Stack Developer in HTML, CSS, Bootstrap, Javascript, Jquery, and PHP.
+- 🌱 I'm a MERN (MongoDB, Express.js, React.js/Next.js, React Native) stack developer and a Full Stack Developer specializing in HTML, CSS, Bootstrap, JavaScript, jQuery, and PHP.
 - 🌱 My Portfolio: https://umermujahidhassniportfolio.vercel.app/
 - 💞️ I’m looking to collaborate on web programming.
 - 📫 How to reach me:
