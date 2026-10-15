@@ -1,6 +1,6 @@
 # Hi, I'm Umer 👋
 
-**MERN Stack Developer** based in Faisalabad, Pakistan. I build production-grade web and mobile applications for real businesses — e-commerce platforms, POS systems, admin dashboards, and more.
+**Full-Stack Developer (Laravel · React · MERN)** based in Faisalabad, Pakistan. I build production-grade web and mobile applications for real businesses — invoicing and compliance software, ERP systems, e-commerce platforms, POS systems, admin dashboards, and more.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/syedumer-dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:syedumerhassni@gmail.com)
@@ -11,22 +11,23 @@
 ## 🛠 Tech Stack
 
 **Frontend:** React.js · Next.js · React Native · TypeScript · Tailwind CSS  
-**Backend:** Node.js · Express.js · REST APIs · JWT · Role-Based Access Control  
-**Database:** MongoDB · Mongoose  
+**Backend:** Laravel · PHP · Node.js · Express.js · REST APIs · JWT · Role-Based Access Control  
+**Database:** MySQL · MongoDB · Mongoose  
 **Tools:** Git · Postman · Cloudinary · Vercel · Firebase  
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📱 [Digital Wellbeing App](https://github.com/ft-umer/digitalwelbeingfrontend)
-A React Native mobile app that helps users monitor and manage screen time habits. Features AI-based usage predictions, a gamified rewards system, and daily goal tracking.  
-`React Native` `Node.js` `Express.js` `MongoDB` `JWT`
+### 🧾 [FBR Integrated Digital Invoicing Software](https://alsyeddigitax.com)
+Digital invoicing software integrated with Pakistan's FBR (Federal Board of Revenue) system, helping businesses generate and submit compliant tax invoices.  
+`Laravel` `React` `MySQL` `REST APIs`  
+🔗 [alsyeddigitax.com](https://alsyeddigitax.com)
 
-### 🛒 [Loom POS System](https://github.com/ft-umer/Loom_POS)
-A full-featured Point of Sale system for retail businesses. Includes sales tracking, invoice generation, inventory management, and daily reporting.  
-`React` `TypeScript` `Tailwind CSS` `Vite`  
-🔗 [Live Demo](https://loom-pos.vercel.app)
+### 📊 [ERP — Al Syed Fintrix](https://alsyedfintrix.com)
+A full-featured ERP platform for managing business operations, finance, and reporting in one place.  
+`Laravel` `React` `MySQL` `REST APIs`  
+🔗 [alsyedfintrix.com](https://alsyedfintrix.com)
 
 ---
 
@@ -37,13 +38,12 @@ Delivered 5+ production-ready applications including e-commerce platforms, POS s
 
 ---
 
-## 📊 GitHub Stats
+## 🎓 Education
 
-![Umer's GitHub stats](https://github-readme-stats.vercel.app/api?username=ft-umer&show_icons=true&theme=tokyonight&hide_border=true)
+**BS Computer Science** — University of Agriculture, Faisalabad *(Graduated)*
 
 ---
 
-*Currently in final year of BSc Computer Science @ University of Agriculture, Faisalabad*
+## 📊 GitHub Stats
 
-https://drive.google.com/drive/folders/1_1z5AXQLKB7dmUlDFXxYObLkl1tcjk11?usp=drive_link
-
+![Umer's GitHub stats](https://github-readme-stats.vercel.app/api?username=ft-umer&show_icons=true&theme=tokyonight&hide_border=true)
